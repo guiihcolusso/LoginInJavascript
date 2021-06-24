@@ -1,9 +1,3 @@
-<style>
-    img{
-        border-radius: 45px 0.1px 45px 0.1px;
-    }
-</style>
-
 <h1>Olá Seja bem vindo ao meu Projeto :)</h1>
     <p>Está é uma tela de login feita com HTML,CSS e Javascript</p>
     <p>é uma tela bem simples mas espero que Ajude :)</p>
