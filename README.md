@@ -5,6 +5,6 @@
     <p>Para trocar o nome de usuario e senha entre na pasta chamada js e abra o "sistemalogin.js" com algum editor de texto.</p>
     <p>Dentro do javascript terá instruções de onde efetuar as alterações. </p>
     <br><br>
-    <p> Usuario Padrao : master -- Senha Padro : 12345</p>
+    <p> Usuario Padrao : master -\n- Senha Padro : 12345</p>
     <br><br>
 <img height="500px" width="900px" src="https://i.imgur.com/Xg69frz.png" alt="Exemplo">
