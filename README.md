@@ -6,6 +6,6 @@
     <p>Dentro do javascript terá instruções de onde efetuar as alterações. </p>
     <br><br>
     <p> Usuario Padrao : master</p>
-    <p> Senha Padro : 12345</p>
+    <p> Senha Padrao : 12345</p>
     <br><br>
 <img height="500px" width="900px" src="https://i.imgur.com/Xg69frz.png" alt="Exemplo">
